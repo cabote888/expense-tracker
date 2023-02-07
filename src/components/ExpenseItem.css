@@ -1,0 +1,14 @@
+.expense-item {
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+   margin-bottom: 2rem;
+}
+
+.expense-title {
+    text-align: center;
+}
+
+.expense-price {
+    text-align: end;
+}
+

@@ -1,0 +1,8 @@
+.expense-date {
+    display: flex;
+}
+
+.expense-day, 
+.expense-year {
+    margin-left: .5rem;
+}
